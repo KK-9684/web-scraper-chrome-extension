@@ -76,8 +76,6 @@ Read the [Development Instructions](/docs/Development.md) before you start.
 
 ## License
 
-LGPLv3
-
 [chrome-store]: https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
 [webscraper.io]: http://webscraper.io/
 [google-groups]: https://groups.google.com/forum/#!forum/web-scraper
